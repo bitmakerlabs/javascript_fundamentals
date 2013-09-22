@@ -2,7 +2,7 @@
 
 We've put together a condensed set of tutorials to take you through the fundamentals of JavaScript and jQuery. They have been curated in a way that gives you enough information to figure out the following exercises for that section.
 
-You should read each tutorial and complete the corresponding exercises for each. Please clone the repo, remove the remote and commit your solutions to your own repo labelled js_fundamentals.
+Please clone the repo, remove the remote and commit your solutions to your own repo labelled javascript_fundamentals. You should read each tutorial and complete the corresponding exercises for each. 
 
 * [JS Overview](https://github.com/bitmakerlabs/javascript_fundamentals/wiki/1-Overview)
 * [JS Datatypes and Variables](https://github.com/bitmakerlabs/javascript_fundamentals/wiki/2-Data-Types-and-Variables)
