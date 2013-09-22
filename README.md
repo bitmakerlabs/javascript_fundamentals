@@ -18,4 +18,4 @@ You should read each tutorial and complete the corresponding exercises for each.
 * [jQuery](https://github.com/bitmakerlabs/javascript_fundamentals/wiki/6-jQuery)
 * [jQuery Exercises](https://github.com/bitmakerlabs/javascript_fundamentals/blob/master/jquery_fundamentals/index.html)
 * [JS Code Organization](https://github.com/bitmakerlabs/javascript_fundamentals/wiki/7-Code-Organization)
-* [JS Optional Exercises](https://github.com/bitmakerlabs/javascript_fundamentals/blob/master/javascript_fundamentals/optional.js)
+* [JS Optional Exercises](https://github.com/bitmakerlabs/javascript_fundamentals/blob/master/js_fundamentals/optional.js)
