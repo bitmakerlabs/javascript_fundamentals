@@ -16,7 +16,7 @@ Please clone the repo, remove the remote and commit your solutions to your own r
 * [JS Objects Exercises](https://github.com/bitmakerlabs/javascript_fundamentals/blob/master/js_fundamentals/objects.js)
 * [JS DOM Exercises](https://github.com/bitmakerlabs/javascript_fundamentals/blob/master/js_fundamentals/dom.js)
 * [jQuery](https://github.com/bitmakerlabs/javascript_fundamentals/wiki/6-jQuery)
-* [jQuery - Try jQuery by CodeSchool](http://www.codeschool.com/courses/try-jquery)
+* [jQuery - Try jQuery by CodeSchool Exercises](http://www.codeschool.com/courses/try-jquery)
 * [jQuery Exercises](https://github.com/bitmakerlabs/javascript_fundamentals/blob/master/jquery_fundamentals/index.html)
 * [JS Code Organization](https://github.com/bitmakerlabs/javascript_fundamentals/wiki/7-Code-Organization)
 * [JS Optional Exercises](https://github.com/bitmakerlabs/javascript_fundamentals/blob/master/js_fundamentals/optional.js)
