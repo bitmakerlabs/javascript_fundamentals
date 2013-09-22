@@ -1,4 +1,4 @@
-#### JavaScript
+#### JavaScript Fundamentals
 
 We've put together a condensed set of tutorials to take you through the fundamentals of JavaScript and jQuery. They have been curated in a way that gives you enough information to figure out the following exercises for that section.
 
