@@ -12,7 +12,7 @@ Please clone the repo, remove the remote and commit your solutions to your own r
 * [JS Control Flow & Arrays](https://github.com/bitmakerlabs/javascript_fundamentals/wiki/4-Control-Flow-&-Arrays)
 * [JS Control Flow Exercises](https://github.com/bitmakerlabs/javascript_fundamentals/blob/master/js_fundamentals/ifelse.js)
 * [JS Array Exercises](https://github.com/bitmakerlabs/javascript_fundamentals/blob/master/js_fundamentals/arrays.js)
-* [JS Objects & the DOM](https://github.com/bitmakerlabs/javascript_fundamentals/wiki/5-Objects-&-the-DOM)
+* [JS Objects](https://github.com/bitmakerlabs/javascript_fundamentals/wiki/5-Objects)
 * [JS Objects Exercises](https://github.com/bitmakerlabs/javascript_fundamentals/blob/master/js_fundamentals/objects.js)
 * [JS DOM Exercises](https://github.com/bitmakerlabs/javascript_fundamentals/blob/master/js_fundamentals/dom.js)
 * [JS Code Organization](https://github.com/bitmakerlabs/javascript_fundamentals/wiki/7-Code-Organization)
