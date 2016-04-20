@@ -13,7 +13,7 @@
 
 // Store the current year in a variable.
 // Store their birth year in a variable.
-// Calculate their 2 possible ages based on the stored values.
+// Calculate their age based on the stored values.
 // Output them to the screen like so: "They are NN years old.", substituting the values.
 
 // EXERCISE: The Lifetime Supply Calculator
