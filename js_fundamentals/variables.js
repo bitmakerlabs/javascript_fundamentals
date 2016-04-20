@@ -4,7 +4,7 @@
 
 // Why pay a fortune teller when you can just program your fortune yourself?
 
-// Store the following into variables: number of children, partner's name, geographic location, job title.
+// Store the following into variables: job title, geographic location, partner's name, number of children.
 // Output your fortune to the screen like so: "You will be a X in Y, and married to Z with N kids."
 
 // EXERCISE: The Age Calculator
@@ -14,7 +14,7 @@
 // Store the current year in a variable.
 // Store their birth year in a variable.
 // Calculate their 2 possible ages based on the stored values.
-// Output them to the screen like so: "They are either NN or NN", substituting the values.
+// Output them to the screen like so: "They are NN years old.", substituting the values.
 
 // EXERCISE: The Lifetime Supply Calculator
 
@@ -42,5 +42,3 @@
 // Convert it to fahrenheit and output "NN°C is NN°F".
 // Now store a fahrenheit temperature into a variable.
 // Convert it to celsius and output "NN°F is NN°C."
-
-
